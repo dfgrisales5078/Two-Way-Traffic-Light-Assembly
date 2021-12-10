@@ -1,7 +1,7 @@
 ;
 ; file:    TrafficLight.asm
 ; Created: 12/4/2021 3:48:11 PM
-; Authors: Ragy Costa de jesus, Diego Grisales, Anthony Zarzana
+; Authors: Diego Grisales, Ragy Costa De Jesus, Anthony Zarzana
 ; Desc:    Two way traffic light
 ;----------------------------------------------------------
 
